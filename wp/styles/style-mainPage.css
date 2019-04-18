@@ -87,10 +87,10 @@ body{
     /* margin-left: 5px; */
     background: rgb(96, 96, 96);
     /* border-top: 3px solid #444444; */
-    /* padding-top: 3px; */
+    padding-top: 3px;
 
     /* test */
-    height: 110px;;
+    /* height: 110px;; */
 }
 .href-to-CH:hover{
     
