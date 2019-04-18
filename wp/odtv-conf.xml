@@ -1,0 +1,30 @@
+{"count":"22",
+"status":"use",
+"showcast_server":"http://78.26.128.117:9000/",
+"toast_message":["LIVE-TV.NET.UA",""],
+"1":["Думская ТВ","http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8","3dumlogo.png","dumska","322223","","здесь будет еще одно поле с названием пакета - Кино, Спорт, Новости и т.д."],
+"2":["Южная волна","http://cdn1.live-tv.od.ua:8081/wave/wave-abr-lq/playlist.m3u8","2logoUV.png","wave","0800305100",""],
+"3":["1-й городской - Одесса","http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8","2logo1tvod.png","","",""],
+"4":["3-й цифровой - Одесса","http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr-lq/playlist.m3u8","2logo3tvod.png","3tvod","",""],
+"5":["Репортер - Одесса","http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8","logoreporter.png","31chod","",""],
+"6":["Академия ТВ - Одесса","http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr-lq/playlist.m3u8","2logoacademia.png","","",""],
+"7":["А1 - Одесса","http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8","logoa1od.png","","+380487289799","+380675567777"],
+"8":["GTV - Одесса","http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8","logogtvod.png","","","+380675567777"],
+"9":["STV - Одесса", "http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8","logostvod.png","","+380963588978",""],
+"10":["Ольвия - Одесса", "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8","2logoktk2od.png","","",""],
+"11":["7 канал - Одесса", "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8","2logo7tvod.png","7tvod","",""],
+"12":["РИО - Одесса", "http://cdn1.live-tv.od.ua:8081/riood/riood-abr-lq/playlist.m3u8","logoriood.png","","",""],
+"13":["BBB-TV - Одесса", "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr-lq/playlist.m3u8","logobbb.png","","",""],
+"14":["Круг - Одесса", "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8","2logokrugod.png","","",""],
+"15":["Здоровье - Одесса", "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8","2logozdorovood.png","","",""],
+"16":["Контакт - Килия", "http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8","logokontaktod.png","","",""],
+"17":["Суспільне ТБ - Одеса", "http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8","2logoodtrkod.png","uaod","",""],
+"18":["ТИС-ТВ - Визирка", "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8","logotistv.png","","",""],
+"19":["TGTV - Одесса", "http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8","logotgtv.png","tgtv","",""],
+"20":["Радио 102,7 - Одеса", "http://cdn1.live-tv.od.ua:8081/1tvod/1rod-abr/playlist.m3u8","logo1rod.png","","",""],
+"21":["Местное радио - Одесса", "http://cdn1.limantv.com:8081/radio/viz/playlist.m3u8","logovizirka.png","","",""],
+"22":["Пляж Ланжерон - Немо", "http://cdn1.live-tv.od.ua:8081/nemo/mor-sub/playlist.m3u8","nemo.png","","",""]
+}
+
+
+

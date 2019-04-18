@@ -1,0 +1,239 @@
+body{
+    overflow: hidden;
+    
+    position: fixed;
+    
+   
+    background-color: rgb(80, 80, 80);
+    height: 100%;
+    width: 100%;
+    /* padding-bottom: 30px; */
+}
+.height100{
+    height: 100%;
+}
+.header_logo{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+    /* TO DO */
+    border-radius: 6px, 6px, 0px, 0px;
+}
+.logoIMG{
+    margin-left:15px;
+
+}
+
+.channel{
+    height: 60px;
+}
+.coloring{
+    /* padding-bottom: 30px; */
+    padding-right: 0px;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(97, 97, 97);
+    /* padding-bottom: 50px; */
+    
+}
+
+/* Left block whith channels */
+.channels-block{
+    height: 100vh;
+    padding-right: 0px;
+    overflow: auto;
+    /* height: 100%; */
+    width: 100%;
+    background-color: rgb(97, 97, 97);
+    padding-bottom: 50px;
+}
+/* scroll bar */
+/* ширина и цвет полосы прокрутки */
+.scroll::-webkit-scrollbar{
+
+    width: 8px;
+    background-color: rgb(253, 2, 2);
+    
+}
+
+/* ползунок скролбара */
+.scroll::-webkit-scrollbar-thumb{
+    width: 8px;
+    height: 80px;
+    background-color: rgb(78, 78, 78);
+    border-radius: 3px 3px 3px 3px;
+
+
+}
+
+/* трек скроллбара */
+.scroll::-webkit-scrollbar-track{
+
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    
+    background-color: rgb(145, 145, 145);
+}
+/* кнопки скролбара */
+.scroll::-webkit-scrollbar-button{
+    /* TO DO */
+    background-color: #7c2929;
+    height: 0px;
+}
+/* ---------------- */
+.href-to-CH{
+    display: block;
+    text-decoration: none;
+    color: black;
+    /* margin-left: 5px; */
+    background: rgb(96, 96, 96);
+    /* border-top: 3px solid #444444; */
+    /* padding-top: 3px; */
+
+    /* test */
+    height: 110px;;
+}
+.href-to-CH:hover{
+    
+    text-decoration: none;
+    color: black;
+    background-color: rgb(80, 80, 80);
+    
+}
+.oneCh{
+    height: 50px;
+}
+.numbreCH{
+    text-align: center;
+    width: 17px;
+    margin-left: 5px;
+    margin-right: 15px !important;
+}
+.nameCH{
+    font-size: 17px;
+    margin-bottom: 3px !important;
+}
+.imgCH{
+    height: 45px;
+    width: 50px;
+}
+.textNearLogo{
+    margin-top: 5px;
+    height: 50px;
+    font-size: 13px;
+}
+.separatorCH{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.media{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.progressCH{
+    /* width: 100%; */
+    height: 3px;
+    background: #c00101;
+}
+/* ----------------------- */
+/* Вариант-2 каналы слева */
+.block-img-progress{
+    padding: 5px;
+}
+.CurProgram-progress{
+    padding-left: 15px;
+}
+.logo_Ofchannel{
+    width: 125px;
+    height: 100px;
+    background-color: white;
+
+}
+.block-num-nameChannel {
+    text-align: left;
+    height: 40px;
+    line-height: 30px;
+}
+.numChannel{
+    /* width: 125px; */
+    /* height: 20px; */
+    text-align: center;
+}
+.nameChannel{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 15px; 
+    margin-bottom: 0px;
+
+}
+.about-curProgram{
+    margin-top: 5px;
+    line-height: 20px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+
+
+/* ---------------------- */
+
+
+
+
+.right-block{
+    /* padding-right:30px; */
+    padding-left: 5px;
+    border: solid rgb(228, 11, 11) 4px 0px 0px 0px;
+    padding-left: 0px;
+    overflow: auto;
+}
+
+/* Player */
+.block-for-video{
+    min-height: 150px;
+    width: 100%;
+    padding-bottom: 56.25%;  /* Для соотношения блока 16:9 */
+    background-color: black;
+}
+
+.block-for-video_inside{
+    min-width: 100px;
+    width:100%;
+    /* margin: auto; */
+    height: 100%;
+
+    /* background: url(img/depositphotos_113634362-stock-illustration-flash-player-video-player-video.jpg) no-repeat; */
+    background-image: url(/img/depositphotos_113634362-stock-illustration-flash-player-video-player-video.jpg);
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+}
+/* ---------------------- */
+
+/* THe block under player */
+.under_player{
+    height: 43.75%;
+    /* padding-bottom: 30px; */
+}
+
+.program-currentCH{
+    overflow: auto;
+    background-color: rgb(119, 119, 119);
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+}
+
+.currentProg-select{
+    background-color: #c00101;
+}
+/* --------------------- */
+
+/* Footer */
+.footer{
+    background-color: aliceblue;
+    height: 30px;
+    width: 100%;
+}
+/* -------------- */
